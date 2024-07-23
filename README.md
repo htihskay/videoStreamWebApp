@@ -7,7 +7,7 @@ This project is a Java Spring Boot web application for streaming videos.
 
 **Client:** HTML, CSS, JavaScript
 
-**Server:** Java, Spring, MySQL
+**Server:** Java, Spring Boot, MySQL
 
 ## ScreenShot
 ![Uploading image.png…]()
